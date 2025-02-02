@@ -5,11 +5,90 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 24.568780925305191
       },
-      "nodes": [],
+      "nodes": [
+        {
+          "location": {
+            "x": 658.66844198736942,
+            "y": 706.41913692530693
+          },
+          "nodeIndex": "dCliente",
+          "nodeLineageTag": "74d1f7d3-fc7b-428e-bcc7-0a9730e012a4",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 328.00790839726176,
+            "y": 706.16556654361943
+          },
+          "nodeIndex": "dProdutos",
+          "nodeLineageTag": "d7cf9057-0b9d-4903-87e8-a6b72f900883",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 703.26718751477483
+          },
+          "nodeIndex": "dVendedor",
+          "nodeLineageTag": "003d1793-c857-4a5a-a821-030e9630e37b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 336.72470624826593,
+            "y": 311.38572963920535
+          },
+          "nodeIndex": "fVendas",
+          "nodeLineageTag": "515d79da-4cb9-4e31-aa7c-605d76f81b3d",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 2.6946254999425321,
+            "y": 5.3146830000000058
+          },
+          "nodeIndex": "dCalendario",
+          "nodeLineageTag": "cab1aeff-c517-4f74-9875-30ddb9b83880",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 827.23202068507624,
+            "y": 17.023967238526254
+          },
+          "nodeIndex": "dPagamentos",
+          "nodeLineageTag": "66ea106b-8c1d-4611-af28-f6587fa516df",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
       "name": "All tables",
-      "zoomValue": 100,
+      "zoomValue": 56.447393005377656,
       "pinKeyFieldsToTop": false,
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
