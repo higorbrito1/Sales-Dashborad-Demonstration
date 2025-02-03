@@ -11,7 +11,7 @@
         {
           "location": {
             "x": 658.66844198736942,
-            "y": 706.41913692530693
+            "y": 709.076478425307
           },
           "nodeIndex": "dCliente",
           "nodeLineageTag": "74d1f7d3-fc7b-428e-bcc7-0a9730e012a4",
@@ -24,7 +24,7 @@
         {
           "location": {
             "x": 328.00790839726176,
-            "y": 706.16556654361943
+            "y": 708.82290804361946
           },
           "nodeIndex": "dProdutos",
           "nodeLineageTag": "d7cf9057-0b9d-4903-87e8-a6b72f900883",
@@ -37,7 +37,7 @@
         {
           "location": {
             "x": 0,
-            "y": 703.26718751477483
+            "y": 705.92452901477486
           },
           "nodeIndex": "dVendedor",
           "nodeLineageTag": "003d1793-c857-4a5a-a821-030e9630e37b",
@@ -50,7 +50,7 @@
         {
           "location": {
             "x": 336.72470624826593,
-            "y": 311.38572963920535
+            "y": 314.04307113920538
           },
           "nodeIndex": "fVendas",
           "nodeLineageTag": "515d79da-4cb9-4e31-aa7c-605d76f81b3d",
@@ -63,7 +63,7 @@
         {
           "location": {
             "x": 2.6946254999425321,
-            "y": 5.3146830000000058
+            "y": 7.9720245000000354
           },
           "nodeIndex": "dCalendario",
           "nodeLineageTag": "cab1aeff-c517-4f74-9875-30ddb9b83880",
@@ -76,12 +76,25 @@
         {
           "location": {
             "x": 827.23202068507624,
-            "y": 17.023967238526254
+            "y": 19.681308738526283
           },
           "nodeIndex": "dPagamentos",
           "nodeLineageTag": "66ea106b-8c1d-4611-af28-f6587fa516df",
           "size": {
             "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1111.2320206850763,
+            "y": 413.20956846265346
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "4aeda695-dc10-43d1-b0bd-d313b7d8563d",
+          "size": {
+            "height": 104,
             "width": 234
           },
           "zIndex": 0
